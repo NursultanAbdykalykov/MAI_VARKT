@@ -31,4 +31,4 @@
 ##### Google drive: https://drive.google.com/drive/folders/1pD8h6MnpiUuCudnypGz9BLZA8pJRxj__?usp=sharing
 ##### Git hub: https://github.com/NursultanAbdykalykov/MAI_VARKT
 #### Ссылка на видеоотчет на YouTube
-!!!В процессе!!!
+https://youtu.be/Q_TvBG33Yx0
